@@ -3,7 +3,7 @@ import requests, sys, json, getopt
 ## Arguments needed from user ##
 argList = sys.argv[1:]
 
-## Modified to add ‘-h’ option ##
+## Modified to add '-h' option ##
 options = 'c:i:p:r:h:'
 
 arguments, values = getopt.getopt(argList, options)
