@@ -1,4 +1,4 @@
-mport requests, sys, json, getopt
+import requests, sys, json, getopt
 
 ## Arguments needed from user ##
 argList = sys.argv[1:]
